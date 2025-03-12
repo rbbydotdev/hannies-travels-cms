@@ -5,7 +5,7 @@ subtitle: >-
   Traveling by train in Thailand is an authentic, budget-friendly way to explore
   the country.
 images:
-  - 'https://img.hanniestravels.com/old-train-thailand.jpg'
+  - 'https://cdn.hanniestravels.com/thai-train.jpg'
 author: Hannie
 authorBio: Thailand Travel Expert
 title: How to Travel by Train in Thailand
